@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" alt="Python">
   </p>
 
-  <img src="https://i.imgur.com/AbC123X.gif" alt="Bot Preview" width="80%">
+  <img src="https://iili.io/FLKE4IV.md.jpg" alt="Bot Preview" width="80%">
 </div>
 
 ---
@@ -35,9 +35,9 @@
 <details>
 <summary>Click to view</summary>
 
-![Ticket Panel](https://i.imgur.com/XyZ1234.png)
-![Transcript Example](https://i.imgur.com/ABc5678.png)
-![HTML Transcript Preview](https://i.imgur.com/Def8901.png)
+![Ticket Panel]([https://i.imgur.com/XyZ1234.png](https://ddg21s9t062h4.cloudfront.net/0adqj%2Fpreview%2F69784894%2Fmain_large.jpg?response-content-disposition=inline%3Bfilename%3D%22main_large.jpg%22%3B&response-content-type=image%2Fjpeg&Expires=1754728111&Signature=gw5F-maXNndZcx~oVDQiqp46QhjEvjsTz0Rnwfc7nl9mkF6Y2BSr3kGA~KrDrqyilH2hEZrwVLC3OnOQUn9meOWkydx~weVwn-uOA1XoFK9pdlPwkmxOLOGU~entSJdgt2X6yWA7b42IgEA2HA38LpH6cGxDR2zLx7nds6qzhRGGttZ9cWNcg7pUQkwprlm9NKTdDsid0xKexqLsSxSoZP7F-szzAoLrgqfFORqPOTK~zWcspCsxTXJx0vFI7xNoooWKXGgl6JJUxG9VRYu-ETOHHubbxpA3hxBlDgCsa7EYK~MLxrz~HMBzrKafwuMNGJecQyAEUBwIVXdhJth3mQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ))
+![Transcript Example]([https://i.imgur.com/ABc5678.png](https://d3rshtj5w2m4qx.cloudfront.net/7sdqj%2Fpreview%2F69784912%2Fmain_large.jpg?response-content-disposition=inline%3Bfilename%3D%22main_large.jpg%22%3B&response-content-type=image%2Fjpeg&Expires=1754728232&Signature=gi5b5aYPb-RfDM~ih5W14v7vcl9MW3D2r2EllSN2DDSWam0dZ83RsQ-3ldjIJsOId-vEvwcler23Sb9YDvS7EUgZFQecDvsNhUl20iWnPI8WLBIT8P7bKhiadqGhcPjabDPHCI4Zxgo1uzk0Cj4vPJgE~CN4dkXtkmR5BOqiY1~TD5Q5Ga~mvB94ZdjClwJjuIBuglXeYkx2xWGwMlUfLWfi8sDBEcqQOsHLwT7ZIl9L~1R0g0SPTQAqmiQmNaDUnMz5nuzClDb2Y5y9nNlIJGyQTCKXgDzBwrdt0zCiUNI37RUp~gcTTjS0fCcHmHrCcevgwxR8u0YAUXGU2j7vpA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ))
+
 
 </details>
 
@@ -64,6 +64,7 @@ pip install -r requirements.txt
 ```
 📁 Directory structure 
 
+```
 configs/     → Per-server bot settings
 tickets/        → Ticket data for each guild
 blacklists/     → List of blacklisted users
@@ -73,7 +74,7 @@ panels/         → Ticket panel layouts
 transcripts/    → Generated ticket transcripts
 logs/           → Ticket closure logs
 
-
+```
 📄 Commands
 
 Command 	 Description
