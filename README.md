@@ -41,11 +41,18 @@
 
 </details>
 
----
+## 📦 Installation```
+
+```bash
+git clone https://github.com/brucewayne34/discord-ticket-bot.git
+cd discord-ticket-bot
+pip install -r requirements.txt
+```
 ⚙️ Configuration
 
 📁 Config File (configs/{guild_id}.json)
-```{
+```
+{
     "embed_color": [128, 0, 255],
     "ticket_category_id": 123456789012345678,
     "log_channel_id": 123456789012345678,
@@ -54,10 +61,83 @@
     "welcome_message": "Welcome to your ticket!",
     "send_transcript_to_user": true
 }
-## 📦 Installation```
+```
+📁 Directory structure 
 
-```bash
-git clone https://github.com/brucewayne34/discord-ticket-bot.git
-cd discord-ticket-bot
-pip install -r requirements.txt
+configs/     → Per-server bot settings
+tickets/        → Ticket data for each guild
+blacklists/     → List of blacklisted users
+warnings/       → Issued warnings
+tags/           → Custom server tags
+panels/         → Ticket panel layouts
+transcripts/    → Generated ticket transcripts
+logs/           → Ticket closure logs
 
+
+📄 Commands
+
+Command 	 Description
+
+-setup	   Configure the bot for the server
+-panel	    Create a ticket panel
+-blacklist	Add/remove users from blacklist
+-warn	      Warn a user
+-tag	      Manage tags
+
+
+
+---
+
+📜 Transcripts
+
+HTML format — Discord-style with avatars, embeds, attachments
+
+TXT format — Mobile-friendly plain text version
+
+Saved in /transcripts/{guild_id}/
+
+
+
+---
+
+🛠 Tech Stack
+
+Python 3.8+
+
+discord.py
+
+aiohttp
+
+psutil (optional)
+
+
+
+---
+
+📌 Roadmap
+
+[ ] Web Dashboard
+
+[ ] Slash Command Support
+
+[ ] Database Storage (MongoDB/PostgreSQL)
+
+
+
+---
+
+🔒 Security
+
+⚠ Important:
+
+Store bot tokens in .env or environment variables
+
+Never commit configs/ or tickets/ folders to GitHub
+
+
+
+---
+
+📄 License
+
+Distributed under the MIT License. See LICENSE for details.
