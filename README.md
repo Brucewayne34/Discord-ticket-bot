@@ -42,9 +42,22 @@
 </details>
 
 ---
+⚙️ Configuration
 
-## 📦 Installation
+📁 Config File (configs/{guild_id}.json)
+```{
+    "embed_color": [128, 0, 255],
+    "ticket_category_id": 123456789012345678,
+    "log_channel_id": 123456789012345678,
+    "staff_role_ids": [123456789012345678],
+    "max_tickets_per_user": 3,
+    "welcome_message": "Welcome to your ticket!",
+    "send_transcript_to_user": true
+}
+## 📦 Installation```
+
 ```bash
 git clone https://github.com/brucewayne34/discord-ticket-bot.git
 cd discord-ticket-bot
-pip install -r requirements.txt 
+pip install -r requirements.txt
+
