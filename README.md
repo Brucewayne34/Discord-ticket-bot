@@ -7,7 +7,7 @@
 
   <!-- Badges -->
   <p>
-    <img src="https://img.shields.io/github/license/brucewayne34/discord-ticket-bot?style=for-the-badge" alt="License">
+    <img src="https://img.shields.io/github/license/brucewayne34/Discord-ticket-bot?style=for-the-badge" alt="License">
     <img src="https://img.shields.io/github/stars/brucewayne34/discord-ticket-bot?style=for-the-badge" alt="Stars">
     <img src="https://img.shields.io/github/forks/brucewayne34/discord-ticket-bot?style=for-the-badge" alt="Forks">
     <img src="https://img.shields.io/github/issues/brucewayne34/discord-ticket-bot?style=for-the-badge" alt="Issues">
