@@ -7,10 +7,10 @@
 
   <!-- Badges -->
   <p>
-    <img src="https://img.shields.io/github/license/your-username/discord-ticket-bot?style=for-the-badge" alt="License">
-    <img src="https://img.shields.io/github/stars/your-username/discord-ticket-bot?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/forks/your-username/discord-ticket-bot?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/issues/your-username/discord-ticket-bot?style=for-the-badge" alt="Issues">
+    <img src="https://img.shields.io/github/license/brucewayne34/discord-ticket-bot?style=for-the-badge" alt="License">
+    <img src="https://img.shields.io/github/stars/brucewayne34/discord-ticket-bot?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/forks/brucewayne34/discord-ticket-bot?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/issues/brucewayne34/discord-ticket-bot?style=for-the-badge" alt="Issues">
     <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" alt="Python">
   </p>
 
